@@ -60,3 +60,5 @@ wpcs/
 # package-lock.json
 public/mix-manifest.json
 bootstrap/cache/
+public/css
+public/js

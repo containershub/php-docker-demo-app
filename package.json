@@ -1,0 +1,27 @@
+{
+  "name": "php-docker-demo-app",
+  "version": "1.0.0",
+  "description": "A small demo app for php-docker",
+  "homepage": "https://github.com/containershub/php-docker-demo-app#readme",
+  "bugs": {
+    "url": "https://github.com/containershub/php-docker-demo-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/containershub/php-docker-demo-app.git"
+  },
+  "license": "MIT",
+  "author": "https://github.com/0xkhan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt": "^1.6.3",
+    "grunt-contrib-uglify": "^5.2.2",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^4.1.0",
+    "sass": "^1.105.1"
+  }
+}
